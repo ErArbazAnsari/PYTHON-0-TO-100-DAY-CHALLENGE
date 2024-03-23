@@ -1,4 +1,4 @@
-# In any programming language datatype means varity of data. 
+# In any programming language datatype means varity of data.
 # like in any programming language we are able to use multiple datatype.
 # datatypes like int, float, double, bool, str, complex, etc.
 
@@ -18,7 +18,7 @@ b = 10.33322
 print(b)
 print(type(b))
 
-c = 5+7j
+c = 5 + 7j
 print(c)
 print(type(c))
 
@@ -33,3 +33,7 @@ print(type(e))
 f = None
 print(f)
 print(type(f))
+
+g = "A"
+print(g)
+print(type(g))
