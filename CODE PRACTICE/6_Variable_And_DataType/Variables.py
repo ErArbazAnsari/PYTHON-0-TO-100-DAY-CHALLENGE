@@ -4,8 +4,7 @@
 # Example of Varialbe in Python
 a = 10
 print(a)
-
-
+# we can also change the value of variable
 b = 100
 print(b)
 c = "HappyCoders"
