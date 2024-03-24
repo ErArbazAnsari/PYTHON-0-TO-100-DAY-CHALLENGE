@@ -9,4 +9,3 @@ b = 100
 print(b)
 c = "HappyCoders"
 print(c)
-
