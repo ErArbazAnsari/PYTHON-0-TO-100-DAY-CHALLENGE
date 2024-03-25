@@ -1,0 +1,11 @@
+myList = [1, 2, 3, 4, 5]
+print(myList)
+print(myList[:])
+print(myList[0:])
+print(myList[0 : len(myList)])
+print(myList[: len(myList)])
+print(myList[0:-1])
+print(myList[:-1])
+print(myList[0 : len(myList) : 2])
+print(myList[0 : len(myList) :])
+print(myList[::])
