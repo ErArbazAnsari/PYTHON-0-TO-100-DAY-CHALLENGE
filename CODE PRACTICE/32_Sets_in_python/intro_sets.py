@@ -7,5 +7,6 @@ print(info)
 harry = set() # It is use the create empty set
 print(type(harry))
 
+
 for value in info:
     print(value)
