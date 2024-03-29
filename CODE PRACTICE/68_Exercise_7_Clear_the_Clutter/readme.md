@@ -1,0 +1,1 @@
+<!-- Write a program to clear the clutter inside a folder on your computer. You should use os module to rename all the png images from l.png all the way tilt n.png where n is the number of png files in that folder. Do the same for other file formats -->
